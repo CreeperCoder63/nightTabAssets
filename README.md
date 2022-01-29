@@ -1,2 +1,2 @@
-# nightTabBackgrounds
-A repository containing nighttab backgrounds and icons.
+# nightTabAssets
+A repository containing nighttab backgrounds, icons, and images
